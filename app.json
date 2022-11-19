@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "crud-pessoas",
-    "slug": "crud-pessoas",
+    "name": "oracle-cloud-crud-pessoas",
+    "slug": "oracle-cloud-crud-pessoas",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
